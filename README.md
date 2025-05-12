@@ -14,4 +14,8 @@ Pediatric disease—good image datasets available
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/e9382e4e-89fd-47be-8274-94673abc695c" />
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/bb038508-8c3a-4bbf-8fca-5d478c30a964" />
 <img width="1076" alt="image" src="https://github.com/user-attachments/assets/1b23498d-9917-4665-8be4-fae69f282834" />
+<img width="1012" alt="image" src="https://github.com/user-attachments/assets/40ecd416-4af7-4ba1-b66c-92dc68949945" />
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/b38d2655-ae75-4b55-85cf-0dd27fcb5598" />
+<img width="262" alt="image" src="https://github.com/user-attachments/assets/2cc2ae84-f1ed-44ed-8864-11d7bf89c01d" />
+![Uploading image.png…]()
 
